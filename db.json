@@ -1,0 +1,93 @@
+{
+    "gml-url-for-codes-53394509": {
+        "input": {
+            "codes": ["53394509"]
+        },
+        "bldg": [
+            "https://localhost:5000/13100_tokyo220_citygml_3_2_op/udx/bldg/53394509_bldg_6697_2_op.gml"
+        ],
+        "tran": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/tran/533945_tran_6697_op.gml"
+        ],
+        "dem": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/dem/533945_dem_6697_op.gml"
+        ],
+        "lsld": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/lsld/533945_lsld_6668_op.gml"
+        ],
+        "luse":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6668_2_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6697_park_op.gml"
+        ],
+        "urf":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_boka_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_kodo_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_yoto_op.gml"
+        ],
+        "brid":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/brid/53394509_brid_6697_op.gml"
+        ]
+    },
+
+    "gml-url-for-codes-53394508": {
+        "input": {
+            "codes": ["53394508"]
+        },
+        "bldg": [
+            "https://localhost:5000/13100_tokyo220_citygml_3_2_op/udx/bldg/53394508_bldg_6697_op.gml"
+        ],
+        "tran": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/tran/533945_tran_6697_op.gml"
+        ],
+        "dem": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/dem/533945_dem_6697_op.gml"
+        ],
+        "lsld": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/lsld/533945_lsld_6668_op.gml"
+        ],
+        "luse":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6668_2_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6697_park_op.gml"
+        ],
+        "urf":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_boka_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_kodo_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_yoto_op.gml"
+        ],
+        "brid":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/brid/53394508_brid_6697_op.gml"
+        ]
+    },
+
+    "gml-url-for-codes-53394508,53394509": {
+        "input": {
+            "codes": ["53394508", "53394509"]
+        },
+        "bldg": [
+            "https://localhost:5000/13100_tokyo220_citygml_3_2_op/udx/bldg/53394508_bldg_6697_op.gml",
+            "https://localhost:5000/13100_tokyo220_citygml_3_2_op/udx/bldg/53394509_bldg_6697_2_op.gml"
+        ],
+        "tran": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/tran/533945_tran_6697_op.gml"
+        ],
+        "dem": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/dem/533945_dem_6697_op.gml"
+        ],
+        "lsld": [
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/lsld/533945_lsld_6668_op.gml"
+        ],
+        "luse":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6668_2_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/luse/533945_urf_6697_park_op.gml"
+        ],
+        "urf":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_boka_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_kodo_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/urf/533945_urf_6668_yoto_op.gml"
+        ],
+        "brid":[
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/brid/53394508_brid_6697_op.gml",
+            "https://localhost:5000/13100_tokyo23-ku_2020_citygml_3_2_op/udx/brid/53394509_brid_6697_op.gml"
+        ]
+    }
+}
